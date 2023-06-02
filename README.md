@@ -1,1 +1,1 @@
-# stable-diffusion-ai-avatar-prompt-starter-pack
+# stable-diffusion-prompt-starter-pack
